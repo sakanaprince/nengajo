@@ -1,0 +1,16 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    list-style: none;
+}
+
+.header{
+    height: 110px;
+    background-color: rgb(240, 136, 136)
+}
+.main{
+    height: 550px;
+    background-color: darkseagreen;
+}
